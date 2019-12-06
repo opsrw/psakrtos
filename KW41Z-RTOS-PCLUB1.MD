@@ -1,18 +1,15 @@
-# fgs
-## fsg
-##### fdgsd
-Dell PC Lubuntu Linux for MCUXpresso IDE and SDK Embedded Firmware Development of NXP ARM Microcontrollers; Completed setup, Hardware Dev Board & Software ;Sell 399.95 + 14.95 shipping
+## Dell PC Lubuntu Linux for MCUXpresso IDE and SDK Embedded Firmware Development of NXP ARM Microcontrollers; Completed setup, Hardware Dev Board & Software ;Sell 399.95 + 14.95 shipping
 
-(1) PC Computer system:
-# Fast Dell OptiPlex PC Intel CPU Lubuntu Linux 4GB 120GB SSD:
+**(1) PC Computer system:**
+Fast Dell OptiPlex PC Intel CPU Lubuntu Linux 4GB 120GB SSD:
 + Included are Intel Core2Duo 1.86-3.0GHz; 4GB; 120GB SSD; DVD; Lubuntu 64-bit Linux OS installed; Power Cable/Adapter.
 - Monitor, Keyboard, Mouse, Wifi card are not included.
 
-# lubuntu-desktop-amd64: Lubuntu Linux is a fast and lightweight free operating system for PC computer. The OS and software are pre-installed and configured.
+**# lubuntu-desktop-amd64:** Lubuntu Linux is a fast and lightweight free operating system for PC computer. The OS and software are pre-installed and configured.
 
-# Software pre-installed: SSH Server; TightVNC Server; Remmina; Google Chrome; Wine; Sublime Text Editor; Java JDK; XMind; NetBeans IDE; Eclipse IDE; Node-RED; Host GNU C/C++ Compiler x86 64-bits; GDB Server; Python; Python Test Frameworks; Python C/C++ Wrapper
+***# Software pre-installed:** SSH Server; TightVNC Server; Remmina; Google Chrome; Wine; Sublime Text Editor; Java JDK; XMind; NetBeans IDE; Eclipse IDE; Node-RED; Host GNU C/C++ Compiler x86 64-bits; GDB Server; Python; Python Test Frameworks; Python C/C++ Wrapper
 
-# MCUXpresso Integrated Development Environment (IDE) pre-installed
+**# MCUXpresso Integrated Development Environment (IDE) pre-installed**
 
 (2) +1 FRDM-KW41Z Freedom Development Board
 +1 Quick Reference Card PDF
